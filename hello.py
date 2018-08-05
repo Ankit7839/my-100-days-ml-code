@@ -9,5 +9,4 @@ print("hello \"world\" world")
 so you can use ""  or '' many type..
 print('I\'m Ankit')
 print("Ankit\nAsthana")
-print("NAME\tAnkit")
-
+print("NAME\tAnkit
